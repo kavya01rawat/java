@@ -61,3 +61,6 @@ public class Allocate {
     }
 
 }
+
+
+// if we add the details of the students with there gender we will get a output ("Room Number: 1 Name: John")
